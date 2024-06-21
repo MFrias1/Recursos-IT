@@ -1,2 +1,2 @@
 # Recursos-IT
-Recursos que fui acumulando en el tiempo.
+Página web en la que iré organizando los recursos que fui acumulando en el tiempo.
